@@ -1,4 +1,4 @@
-# diy-MD-gamepad
+# DIY MD Gamepad
 
 ## 概要
 AVRマイコンで作るメガドライブ用のゲームパッドです。
