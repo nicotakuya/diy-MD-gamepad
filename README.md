@@ -4,8 +4,14 @@
 AVRマイコンで作るメガドライブ用のゲームパッドです。
 6ボタンに対応しています。
 
-## File
-Atmel Studio 7.0用プロジェクトファイル
+## 回路図とタイミングチャート
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/7479d423-d208-4fc7-acbf-16384e6c919c" />
+
+<img width="700" height="540" alt="Image" src="https://github.com/user-attachments/assets/c9e20289-f537-4a87-a0f7-c98dc27fdb95" />
+
+
+## Source File
+Atmel Studio 7.0用プロジェクトファイルです。
 
 ## Parts list
  U1：ATmega168/328
