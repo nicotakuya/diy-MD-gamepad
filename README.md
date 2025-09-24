@@ -13,6 +13,8 @@ AVRマイコンで作るメガドライブ用のゲームパッドです。
 ## Source File
 Atmel Studio 7.0用プロジェクトファイルです。
 
+main.cがメインのソースです。
+
 ## Parts list
  U1：ATmega168/328
 
@@ -30,6 +32,8 @@ Atmel Studio 7.0用プロジェクトファイルです。
  
  CN4：2x8ピンヘッダ	 	 
  
- C1：0.1μF	 	 
+ C1：0.1μF
+ 
  C2：100μF	 	 
+ 
  R1：10k ohm
